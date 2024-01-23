@@ -1,1 +1,1 @@
-# (Under Development) Deep Learning Model for Incident Neutrino's Direction Prediction 
+# (Under Development) Deep Learning Model for Neutrino's Direction Prediction 
