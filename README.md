@@ -1,1 +1,1 @@
-# (Under Development) Implementing a Competition-Winning Deep Learning Model to Predict a Neutrino's Direction
+# (Under Development) Deep Learning Model for Incident Neutrino's Direction Prediction 
